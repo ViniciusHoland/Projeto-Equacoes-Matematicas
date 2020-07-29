@@ -1,0 +1,92 @@
+.centralize{
+    text-align: center;
+    margin: auto;
+    
+}
+.section1{
+    display: flex;
+    background-color: #006a71;
+    height: 30vh;
+}
+.section2{
+    display: flex;
+    background-color: #d3de32;
+    height: 30vh;
+}
+.section3{
+    display: flex;
+    background-color: #006a71;
+    height: 30vh;
+}
+.section4{
+    display: flex;
+    background-color: #d3de32;
+    height: 30vh;
+    
+}
+button{
+    height: 33px;
+    background-color: #cbeaed;
+    padding: 10px;
+    margin-right: 40vh;
+    border-radius: 5px;
+}
+#menu{
+    display: flex;
+    margin: 0;
+    background-color: #cbeaed;
+}
+#menu li{
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+}
+#menu li:first-child{
+    margin-right: auto;
+}
+.x{
+    text-align: center;
+    
+    font: 50pt normal Arial;
+}
+footer{
+    background-color: #cbeaed;
+    color: black;
+    padding: 15px;
+    
+}
+.explicacao{
+    margin-left: 100vh;
+}
+a{
+    background-color: #1f4068;
+    color: white;
+}
+#res1{
+    display: inline-block;
+}
+#multi{
+    margin-left: 40vh;
+}
+html{
+    scroll-behavior: smooth;
+}
+.link{
+    background-color: #ffffdd;
+    height: 500px;
+    width: 500px;
+    border-radius: 5px;
+    font: 50pt normal Arial;
+}
+hr{
+    background: #0f4c75;
+    height: 20px;
+}
+.potencia{
+    background-color: #ffffdd;
+    height: 500px;
+    width: 500px;
+    border-radius: 5px;
+    font: 50pt normal Arial;
+    color: black;
+}
